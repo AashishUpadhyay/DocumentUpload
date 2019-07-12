@@ -4,6 +4,7 @@ A rest API for document analysis and upload
 Supported APIs:
 
 Upload Document:
+
 URL: http://localhost:9000/upload
 
 Request:
