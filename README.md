@@ -10,7 +10,7 @@ URL: http://localhost:9000/upload
 Request:
 
 Content-Disposition: form-data; name="EMAIL"
-upadhyay.aashish9@yahoo.com
+abcd.efgh@yahoo.com
 
 
 Content-Disposition: form-data; name="FILE"; filename="HubdocInvoice5.pdf"
