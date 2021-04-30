@@ -3,9 +3,7 @@ A rest API for document analysis and upload
 
 Supported APIs:
 
-Upload:
-
-URL: http://localhost:9000/upload
+POST: http://localhost:9000/upload
 
 Request:
 ```
@@ -24,9 +22,7 @@ Response:
 }
 ```
 
-Get: 
-
-URL : http://localhost:9000/document/{Id}
+Get: http://localhost:9000/document/{Id}
 
 Response: 
 ```
@@ -42,9 +38,7 @@ Response:
 }
 ```
 
-Get List: 
-
-URL : http://localhost:9000/document
+Get List: http://localhost:9000/document
 
 Response:
 ```
